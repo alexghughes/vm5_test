@@ -1082,4 +1082,5 @@ function textComparison(){
       lstEle[0].innerHTML = words[0]+" <span style='color:red'>"+words[1]+"</span>";
     };
 
+//this is a new comment
 
